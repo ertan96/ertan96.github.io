@@ -135,7 +135,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: black;
+		color: rgb(85, 124, 231);
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -3243,4 +3243,16 @@ ul {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px; 
+}
+
+.fas {
+	color: #07c2a9;
+}
+
+.icon {
+	color: #07c2a9;
+}
+
+ul.labeled-icons li h3 {
+	color: #07c2a9;
 }
