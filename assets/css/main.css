@@ -3244,8 +3244,3 @@ ul {
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px; 
 }
-
-.pt-avatar {
-	width: 500px;
-	height: auto;
-}
